@@ -2510,7 +2510,7 @@ body.landing #page-wrapper {
 }
 
 #header {
-  background: rgb(77,33,119);
+  background: #7413DC;
   color: #bbb;
   cursor: default;
   height: 3.25em;
@@ -2744,7 +2744,7 @@ body.landing #page-wrapper {
 /* Banner */
 #banner {
   background-attachment: scroll, fixed;
-  background-color: #666;
+  background-color:#7413DC;
   /* Removed so image can be defined by user */
   /* background-image:		url('images/overlay.png'),		url('../../images/banner.jpg'); */
   background-position: top left, center center;
