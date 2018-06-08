@@ -10,14 +10,5 @@
 	<atom:link href="https://scouts.scottguymer.co.uk/series/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Test</title>
-      <link>https://scouts.scottguymer.co.uk/series/test/</link>
-      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
-      
-      <guid>https://scouts.scottguymer.co.uk/series/test/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
