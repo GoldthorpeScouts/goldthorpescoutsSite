@@ -18,7 +18,17 @@
   </url>
   
   <url>
+    <loc>https://scouts.scottguymer.co.uk/cubs/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://scouts.scottguymer.co.uk/kids/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scouts.scottguymer.co.uk/scouts/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -69,6 +79,18 @@
   </url>
   
   <url>
+    <loc>https://scouts.scottguymer.co.uk/tags/beavers/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://scouts.scottguymer.co.uk/tags/cubs/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://scouts.scottguymer.co.uk/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -106,6 +128,12 @@
   
   <url>
     <loc>https://scouts.scottguymer.co.uk/preachers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://scouts.scottguymer.co.uk/tags/scouts/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
     <priority>0</priority>
   </url>
   

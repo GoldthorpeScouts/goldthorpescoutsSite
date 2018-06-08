@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scouts on Goldthorpe Scouts</title>
+    <link>https://scouts.scottguymer.co.uk/tags/scouts/</link>
+    <description>Recent content in Scouts on Goldthorpe Scouts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="https://scouts.scottguymer.co.uk/tags/scouts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scouts</title>
+      <link>https://scouts.scottguymer.co.uk/scouts/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>https://scouts.scottguymer.co.uk/scouts/</guid>
+      <description>Scouting has given me a fantastic opportunity to do lots of activities and things that people who are not in Scouts don’t get to do. It’s about having fun with good friends.
+ Scouts aims to build and develop young people’s confidence, sense of adventure and outdoor skills, as well as encouraging them to explore their beliefs and attitudes and be creative. It offers them the independence to put these skills into practice at camps and even on international trips.</description>
+    </item>
+    
+  </channel>
+</rss>
