@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
 /*
 	Alpha by HTML5 UP
 	html5up.net | @ajlkn
@@ -1488,7 +1488,7 @@ input,
 select,
 textarea {
   color: #777;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
   font-size: 16pt;
   font-weight: 300;
   line-height: 1.65em;
