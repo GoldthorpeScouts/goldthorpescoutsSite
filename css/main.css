@@ -2505,7 +2505,7 @@ body.landing #page-wrapper {
 }
 
 #header {
-  background: #444;
+  background: rgb(77,33,119);
   color: #bbb;
   cursor: default;
   height: 3.25em;
