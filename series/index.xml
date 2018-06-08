@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Goldthorpe Scouts</title>
+    <link>https://goldthorpescouts.org.uk/series/</link>
+    <description>Recent content in Series on Goldthorpe Scouts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://goldthorpescouts.org.uk/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://goldthorpescouts.org.uk/series/test/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      
+      <guid>https://goldthorpescouts.org.uk/series/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
