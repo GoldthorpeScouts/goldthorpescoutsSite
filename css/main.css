@@ -1956,6 +1956,11 @@ input[type="radio"] + label:before {
   padding-bottom: 0;
 }
 
+.box.features .features-row img {
+  width: 5.5em;
+  height: 5.5em;
+}
+
 .box.special {
   text-align: center;
 }
