@@ -116,22 +116,9 @@
 					<section class="box special">
 						<header class="major">
 							<h2>Everyday Adventure</h2>
-							<p>We meet at <a href="https://www.openstreetmap.org/node/705292616">Goldthorpe Scouts HQ, Lockwood Road, Goldthorpe</a>.</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non nisi et libero malesuada sagittis. Nulla rutrum pulvinar pretium. Aliquam pharetra, eros vitae viverra vestibulum, augue odio aliquet nibh, non laoreet magna magna sit amet lectus. Curabitur tempus leo in bibendum blandit. Maecenas eu lacus in ligula laoreet interdum. Integer odio justo, ultricies a commodo et, tempus eget massa. Praesent non elit id mi tempus tristique. Nam pretium dolor at ex aliquam, nec bibendum eros fermentum. Nulla fringilla orci eget odio luctus, consequat rutrum nisl pharetra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius vulputate rutrum. Nullam volutpat convallis tincidunt. Ut lorem elit, accumsan id molestie ac, placerat nec neque.</p>
 						</header>
-						
-						
-						
-  
-      <!-- OpenStreetMap -->
-      <span style="display: none; visibility: hidden">
-        <input id="map-lat" value="53.53637" />
-        <input id="map-lng" value="-1.30250" />
-        <input id="map-zoom" value="17" />
-      </span>
-      <div id="map" class="box"></div>
-  
-
-
+						<span class="image featured"><img src="/img/sunset_scouts.jpg" alt="" /></span>
 					</section>
 					
 
@@ -230,30 +217,30 @@
 					<h2>Get in touch!</h2>
 					<p>We&#39;d love to hear from you.</p>
 					
-	<form name="contact" method="POST" action="/contact_thanks" netlify>
-		<div class="row uniform 50%">
-			<div class="6u 12u(mobilep)">
-	    	<input type="text" name="name" placeholder="Your name">
-	  	</div>
-			<div class="6u 12u(mobilep)">
-	    	<input type="email" name="email" placeholder = "Email address">
-	  	</div>
-		</div>
-		<div class="row uniform 50%">
-			<div class="12u">
-				<textarea name="message" placeholder="Enter your message" rows="6"></textarea>
+	<div class="box">
+		<form method="POST" action="https://formspree.io/">
+			<div class="row uniform 50%">
+				<div class="6u 12u(mobilep)">
+					<input type="text" name="name" id="name" value="" placeholder="Name" />
+				</div>
+				<div class="6u 12u(mobilep)">
+					<input type="email" name="_replyto" id="email" value="" placeholder="Email" />
+				</div>
 			</div>
-		</div>
-		<div class="row uniform">
-			<div class="12u">
-				<ul class="actions align-center">
-	  			<li>
-						<input type="submit" value="Send" />
-					</li>
-				</ul>
+			<div class="row uniform 50%">
+				<div class="12u">
+					<textarea name="message" id="message" placeholder="Enter your message" rows="6"></textarea>
+				</div>
 			</div>
-		</div>
-	</form>
+			<div class="row uniform">
+				<div class="12u">
+					<ul class="actions align-center">
+						<li><input type="submit" value="Send Message" /></li>
+					</ul>
+				</div>
+			</div>
+		</form>
+	</div>
 
 
 
