@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://scouts.scottguymer.co.uk/kids/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://scouts.scottguymer.co.uk/scouts/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
@@ -85,12 +80,6 @@
   <url>
     <loc>https://scouts.scottguymer.co.uk/tags/</loc>
     <lastmod>2018-05-12T13:49:50+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://scouts.scottguymer.co.uk/tags/two_column/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
     <priority>0</priority>
   </url>
   
