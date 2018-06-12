@@ -1950,9 +1950,31 @@ input[type="radio"] + label:before {
   padding-bottom: 0;
 }
 
+
+.box.features .features-row #cubs img {
+  max-height: 4.5em;
+  width: auto;
+  height: auto;
+}
+
+.box.features .features-row #scouts {
+  padding-top: 6em;
+}
+
 .box.features .features-row img {
-  width: 5.5em;
-  height: 5.5em;
+  max-width: 15em;
+  max-height: 10em;
+  width: auto;
+  height: auto;
+}
+
+.box.features .features-row a {
+  text-decoration: none !important;
+   border:0px !important;
+   outline:none;
+   border-width: 0px;
+   outline-width:0px;
+   border-bottom: none;
 }
 
 .box.special {
