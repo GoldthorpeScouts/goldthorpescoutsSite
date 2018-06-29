@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Goldthorpe Scouts</title>
-    <link>https://scouts.scottguymer.co.uk/series/</link>
+    <link>https://www.goldthorpescouts.org.uk/series/</link>
     <description>Recent content in Series on Goldthorpe Scouts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://scouts.scottguymer.co.uk/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.goldthorpescouts.org.uk/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

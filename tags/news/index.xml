@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Goldthorpe Scouts</title>
-    <link>https://scouts.scottguymer.co.uk/tags/news/</link>
+    <link>https://www.goldthorpescouts.org.uk/tags/news/</link>
     <description>Recent content in News on Goldthorpe Scouts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 12 Jun 2018 12:34:39 +0000</lastBuildDate>
     
-	<atom:link href="https://scouts.scottguymer.co.uk/tags/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.goldthorpescouts.org.uk/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to our new site</title>
-      <link>https://scouts.scottguymer.co.uk/posts/welcome-to-our-new-site/</link>
+      <link>https://www.goldthorpescouts.org.uk/posts/welcome-to-our-new-site/</link>
       <pubDate>Tue, 12 Jun 2018 12:34:39 +0000</pubDate>
       
-      <guid>https://scouts.scottguymer.co.uk/posts/welcome-to-our-new-site/</guid>
+      <guid>https://www.goldthorpescouts.org.uk/posts/welcome-to-our-new-site/</guid>
       <description>Welcome to our new look website
 We have spent some time creating a new site with a much better layout and lots of much better content to help you find out about us.
 We hope you like it.
