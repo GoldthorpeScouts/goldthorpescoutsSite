@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Goldthorpe Scouts</title>
+    <title>Tags on Goldthorpe Scouts</title>
     <link>https://www.goldthorpescouts.org.uk/tags/</link>
-    <description>Recent content on Goldthorpe Scouts</description>
+    <description>Recent content in Tags on Goldthorpe Scouts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 12 May 2018 03:49:50 +0000</lastBuildDate>
@@ -12,24 +12,48 @@
     
     
     <item>
-      <title>Contact</title>
-      <link>https://www.goldthorpescouts.org.uk/contact/</link>
+      <title></title>
+      <link>https://www.goldthorpescouts.org.uk/tags/</link>
       <pubDate>Sat, 12 May 2018 03:49:50 +0000</pubDate>
       
-      <guid>https://www.goldthorpescouts.org.uk/contact/</guid>
-      <description>We would love to hear from you. If you have any questions please contact us using the form
-You can always find us on Facebook or Twitter the links are at the bottom of every page.
-We look forward to hearing from you!!!
-If you need to send us a good old fashioned letter you can send it to</description>
+      <guid>https://www.goldthorpescouts.org.uk/tags/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Thanks for Contacting Us</title>
-      <link>https://www.goldthorpescouts.org.uk/contact_thanks/</link>
-      <pubDate>Sat, 12 May 2018 13:38:38 +1000</pubDate>
+      <title>Beavers</title>
+      <link>https://www.goldthorpescouts.org.uk/tags/beavers/</link>
+      <pubDate>Mon, 30 Apr 2018 21:39:12 +0000</pubDate>
       
-      <guid>https://www.goldthorpescouts.org.uk/contact_thanks/</guid>
-      <description>Thanks for touching base with us. Someone from Goldthorpe Scouts will be in touch soon.</description>
+      <guid>https://www.goldthorpescouts.org.uk/tags/beavers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cubs</title>
+      <link>https://www.goldthorpescouts.org.uk/tags/cubs/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>https://www.goldthorpescouts.org.uk/tags/cubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://www.goldthorpescouts.org.uk/tags/news/</link>
+      <pubDate>Tue, 12 Jun 2018 12:34:39 +0000</pubDate>
+      
+      <guid>https://www.goldthorpescouts.org.uk/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scouts</title>
+      <link>https://www.goldthorpescouts.org.uk/tags/scouts/</link>
+      <pubDate>Mon, 30 Apr 2018 21:39:12 +0000</pubDate>
+      
+      <guid>https://www.goldthorpescouts.org.uk/tags/scouts/</guid>
+      <description></description>
     </item>
     
   </channel>
