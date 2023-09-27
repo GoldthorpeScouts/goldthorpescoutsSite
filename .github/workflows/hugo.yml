@@ -62,14 +62,16 @@ jobs:
         with:
           path: ./public
 
+
+  # Deployment job
+  deploy:
+
       - name: Build TinaCMS
         env:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
         run: npx tinacms build
-
-  # Deployment job
-  deploy:
+    
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
