@@ -63,9 +63,6 @@ jobs:
           path: ./public
 
 
-  # Deployment job
-  deploy:
-
   - name: Build TinaCMS
     env:
       TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
@@ -73,6 +70,12 @@ jobs:
     run: yarn build
   # This assumes that your "build" script in your
   # package.json is "tinacms build"
+
+  
+  # Deployment job
+  deploy:
+
+
     
     environment:
       name: github-pages
