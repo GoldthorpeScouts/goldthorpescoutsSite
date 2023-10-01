@@ -8,7 +8,7 @@
     <language>en-gb</language>
     <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.goldthorpescouts.org.uk/index.xml" rel="self"/>
+	<atom:link href="https://www.goldthorpescouts.org.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -41,18 +41,6 @@ You can see all of our content and you could even contribute a new blog post.</d
       
       <guid>https://www.goldthorpescouts.org.uk/contact/</guid>
       <description>We would love to hear from you. If you have any questions please contact us using the form
-
-
-
-
-
-
-
-
-
-
-
-
 You can always find us on Facebook or Twitter the links are at the bottom of every page.
 We look forward to hearing from you!!!
 If you need to send us a good old fashioned letter you can send it to</description>
